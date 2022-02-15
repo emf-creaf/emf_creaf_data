@@ -1,0 +1,27 @@
+id: ifn
+emf_type: data
+emf_public: true
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+emf_data_type: creaf_data
+data_repository: http://laboratoriforestal.creaf.cat/
+model_repository: ''
+nodes:
+- ''
+authors:
+- ''
+tags:
+- data
+- forest inventory
+- Catalonia
+links:
+  url_docs: http://laboratoriforestal.creaf.cat/
+  url_source: https://laboratoriforestal.creaf.cat/nfi_app/
+requirements: ''
+description: Access, visualize and download the Spanish National Forest Inventory
+  data for Catalonia
+date: '2022-02-15'
+date_lastmod: '2022-02-15'
+title: '"Inventario Forestal Nacional" (IFN) for Catalonia'
+
