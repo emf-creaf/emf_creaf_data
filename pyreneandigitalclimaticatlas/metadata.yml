@@ -1,0 +1,26 @@
+id: pyreneandigitalclimaticatlas
+emf_type: data
+emf_public: true
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+emf_data_type: creaf_data
+data_repository: https://zenodo.org/record/1186639
+model_repository: ''
+nodes:
+authors:
+- ''
+tags:
+- data
+- climate
+- Pyrenees
+links:
+  url_doi: https://doi.org/10.5281/zenodo.1186639
+  url_docs: https://doi.org/10.1002/gdj3.52
+requirements: ''
+description: Digital long-term topoclimate maps of the Pyrenees for the period 1950-2012 elaborated by integrating meteorological station data,
+  high-quality terrain information and multivariate geostatistical modelling.
+date: '2022-03-31'
+date_lastmod: '2022-03-31'
+title: Pyrenean Digital Climatic Atlas
+
