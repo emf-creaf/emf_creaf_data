@@ -1,0 +1,26 @@
+id: longtermhydrogeochemicaldata
+emf_type: data
+emf_public: true
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+emf_data_type: creaf_data
+data_repository: https://zenodo.org/record/7228249
+model_repository: ''
+nodes:
+authors:
+- ''
+tags:
+- data
+- hydrology
+- geochemistry
+links:
+  url_doi: https://zenodo.org/record/7228249
+  url_docs: https://doi.org/10.1002/hyp.14887
+requirements: ''
+description: Two long-term datasets on the hydrology and hydrochemistry of two
+small catchments totally or partially covered by holm oak (Quercus ilex) forests.
+date: '2023-05-04'
+date_lastmod: '2023-05-04'
+title: Long-term hydrological and biogeochemical datasets (Montseny)
+
