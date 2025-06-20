@@ -1,0 +1,26 @@
+id: meteoland_spain
+emf_type: data
+emf_public: true
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+emf_data_type: creaf_data
+data_repository: https://data-emf.creaf.cat/public/gpkg/daily_interpolated_meteo/
+model_repository: ''
+nodes:
+- ''
+authors:
+- ''
+tags:
+- data
+- meteorology
+- Spain
+- interpolation
+links:
+  url_source: https://data-emf.creaf.cat/public/gpkg/daily_interpolated_meteo/
+requirements: ''
+description: 'Daily interpolated meteo for the last 365 days, at 500 m2 resolution for all Spain'
+date: '2025-06-20'
+date_lastmod: '2025-06-20'
+title: 'Daily continous (500 m2) meteorology interpolation data for Spain'
+
