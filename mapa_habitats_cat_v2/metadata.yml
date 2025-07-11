@@ -1,0 +1,23 @@
+id: 'mapa_habitats_cat_v2'
+emf_type: data
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: true
+emf_data_type: internal_data
+data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/ForestMaps/Catalunya/data-raw/Habitats_v2/'
+model_repository: ''
+nodes: ''
+authors: ''
+tags:
+  - Forest Maps
+links:
+  url_pdf: ''
+url_doi: ''
+url_docs: ''
+url_source: 'ftp://emf-data.creaf.cat:22111/emf/datasets/ForestMaps/Catalunya/data-raw/Habitats_v2/'
+requirements: ''
+description: "Mapa d’Hàbitats de Catalunya v2"
+title: "Mapa d’Hàbitats de Catalunya v2"
+date: '2025-07-04'
+date_lastmod: '2025-07-04'

@@ -1,0 +1,27 @@
+id: ifn_forestables_data
+emf_type: data
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+emf_data_type: internal_data
+data_repository: "ftp://data-emf.creaf.cat:22111/emf/datasets/ForestInventories/IFN_forestables"
+model_repository: ''
+nodes:
+- 'forestables'
+- 'emf_ifn_forestables'
+authors:
+- 'mcaceres'
+- 'vgranda'
+tags:
+- data
+- forest inventory
+- Spain
+links:
+  url_source: "ftp://data-emf.creaf.cat:22111/emf/datasets/ForestInventories/IFN_forestables"
+requirements: ''
+description: 'IFN data harmonized with forestables package splitted by province and IFN version'
+date: '2025-07-10'
+date_lastmod: '2025-07-10'
+title: 'IFN data harmonized with forestables for all Spain'
+

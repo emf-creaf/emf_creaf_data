@@ -7,7 +7,8 @@ emf_draft: false
 emf_data_type: creaf_data
 data_repository: https://zenodo.org/record/3971689
 model_repository: ''
-nodes: sapfluxnetr
+nodes:
+- sapfluxnetr
 authors:
 - ''
 tags:
