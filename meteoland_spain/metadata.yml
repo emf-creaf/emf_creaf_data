@@ -8,7 +8,9 @@ emf_data_type: creaf_data
 data_repository: https://data-emf.creaf.cat/public/gpkg/daily_interpolated_meteo/
 model_repository: ''
 nodes:
-- ''
+- 'emf_meteorology'
+- 'meteospain'
+- 'meteoland'
 authors:
 - ''
 tags:
