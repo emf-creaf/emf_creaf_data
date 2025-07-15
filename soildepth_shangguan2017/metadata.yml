@@ -1,0 +1,23 @@
+id: 'soilgrids_internal'
+emf_type: data
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: true
+emf_data_type: internal_data
+data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/Soils/Global/SoilDepth_Shangguan2017/'
+model_repository: ''
+nodes: ''
+authors: ''
+tags:
+- Soil
+links:
+  url_pdf: ''
+url_doi: 'https://doi.org/10.1002/2016MS000686'
+url_docs: ''
+url_source: 'http://globalchange.bnu.edu.cn/research/dtb.jsp'
+requirements: ''
+description: "A Global map of depth to bedrock for Earth System Modeling (Shangguan et al. 2017)"
+title: "Map of soil depth Shangguan et al. 2017"
+date: '2025-07-15'
+date_lastmod: '2025-07-15'
