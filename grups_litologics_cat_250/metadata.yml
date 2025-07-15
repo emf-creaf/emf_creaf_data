@@ -1,0 +1,23 @@
+id: 'grups_litologics_cat_250'
+emf_type: data
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: true
+emf_data_type: internal_data
+data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/Geology/Catalunya/Grups_Litologics_Catalunya_250/'
+model_repository: ''
+nodes: ''
+authors: ''
+tags:
+  - Forest Maps
+links:
+  url_pdf: ''
+url_doi: ''
+url_docs: ''
+url_source: 'https://www.icgc.cat/ca/Geoinformacio-i-mapes/Dades-i-productes/Geoinformacio-geologica-i-geofisica/Cartografia-geologica/Mapa-de-grups-litologics-de-Catalunya-1250000'
+requirements: ''
+description: "Mapa de grups litològics de Catalunya 1:250 000"
+title: "Mapa de grups litològics de Catalunya 1:250 000"
+date: '2025-07-15'
+date_lastmod: '2025-07-15'
