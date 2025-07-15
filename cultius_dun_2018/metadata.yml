@@ -1,0 +1,23 @@
+id: 'cultius_dun_2018'
+emf_type: data
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: true
+emf_data_type: internal_data
+data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/Agriculture/Catalunya/Cultius_DUN2018/'
+model_repository: ''
+nodes: ''
+authors: ''
+tags:
+  - Agriculture Maps
+links:
+  url_pdf: ''
+url_doi: ''
+url_docs: ''
+url_source: 'https://agricultura.gencat.cat/ca/ambits/desenvolupament-rural/sigpac/mapa-cultius/index.html'
+requirements: ''
+description: "Mapa de cultius DUN-SIGPAC 2018"
+title: "Mapa de cultius DUN-SIGPAC 2018"
+date: '2025-07-15'
+date_lastmod: '2025-07-15'
