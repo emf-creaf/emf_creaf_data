@@ -5,7 +5,7 @@ emf_automatized: true
 emf_reproducible: false
 emf_draft: true
 emf_data_type: internal_data
-data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/ForestMaps/Catalunya/data-raw/Habitats_v2/'
+data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/ForestMaps/Catalunya/Habitats_v2/'
 model_repository: ''
 nodes: ''
 authors: ''
@@ -15,7 +15,7 @@ links:
   url_pdf: ''
 url_doi: ''
 url_docs: ''
-url_source: 'ftp://emf-data.creaf.cat:22111/emf/datasets/ForestMaps/Catalunya/data-raw/Habitats_v2/'
+url_source: 'https://catalegs.ide.cat/geonetwork/srv/api/records/habitats-interes-comunitari-v2-2018'
 requirements: ''
 description: "Mapa d’Hàbitats de Catalunya v2"
 title: "Mapa d’Hàbitats de Catalunya v2"
