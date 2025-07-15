@@ -1,0 +1,23 @@
+id: 'glhymps2_internal'
+emf_type: data
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: true
+emf_data_type: internal_data
+data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/Geology/Global/GLHYMPS2/'
+model_repository: ''
+nodes: ''
+authors: ''
+tags:
+- Land cover
+links:
+  url_pdf: ''
+url_doi: 'http://dx.doi.org/10.1002/2017GL075860'
+url_docs: ''
+url_source: 'https://doi.org/10.5683/SP2/TTJNIU'
+requirements: ''
+description: " map data (Huscroft et al. 2018) with shapefile cropped for Spain by M. De Cáceres"
+title: "GLHYMPS 2.0 map data (HGLHYMPS 2.0uscroft et al. 2018)"
+date: '2025-07-15'
+date_lastmod: '2025-07-15'
