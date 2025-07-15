@@ -1,0 +1,23 @@
+id: 'cobertes_sol_2018'
+emf_type: data
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: true
+emf_data_type: internal_data
+data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/LandCover/Catalunya/MapaCobertesSol2018/'
+model_repository: ''
+nodes: ''
+authors: ''
+tags:
+- Soil
+links:
+  url_pdf: ''
+url_doi: ''
+url_docs: ''
+url_source: 'https://www.icgc.cat/ca/Geoinformacio-i-mapes/Mapes/Mapa-de-cobertes-del-sol-de-Catalunya'
+requirements: ''
+description: "Mapa de Cobertes del Sòl de Catalunya (2018)"
+title: "Mapa de Cobertes del Sòl (2018)"
+date: '2025-07-15'
+date_lastmod: '2025-07-15'
