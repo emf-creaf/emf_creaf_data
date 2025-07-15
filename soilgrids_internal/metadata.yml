@@ -1,0 +1,23 @@
+id: 'soilgrids_internal'
+emf_type: data
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: true
+emf_data_type: internal_data
+data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/Soils/Global/SoilGrids/'
+model_repository: ''
+nodes: ''
+authors: ''
+tags:
+- Soil
+links:
+  url_pdf: ''
+url_doi: ''
+url_docs: ''
+url_source: 'https://files.isric.org/soilgrids/latest/data/'
+requirements: ''
+description: "SoilGrids data downloaded for Peninsular Spain and Canarias by M. De Cáceres"
+title: "SoilGrids v2.0"
+date: '2025-07-15'
+date_lastmod: '2025-07-15'
