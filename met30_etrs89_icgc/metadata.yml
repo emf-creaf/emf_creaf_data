@@ -1,0 +1,23 @@
+id: 'met30_etrs89_icgc'
+emf_type: data
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: true
+emf_data_type: internal_data
+data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/Topography/Catalunya/MET30_ETRS89_ICGC/'
+model_repository: ''
+nodes: ''
+authors: ''
+tags:
+- Topography
+links:
+  url_pdf: ''
+url_doi: ''
+url_docs: ''
+url_source: 'https://www.icgc.cat/Descarregues/Elevacions'
+requirements: ''
+description: "Model digital d'elevacions de Catalunya a 15m de l'ICGC, amb fulls units i aggregat a 30 m per M. De Cáceres"
+title: "Model digital d'elevacions de Catalunya a 30m de l'ICGC"
+date: '2025-07-15'
+date_lastmod: '2025-07-15'

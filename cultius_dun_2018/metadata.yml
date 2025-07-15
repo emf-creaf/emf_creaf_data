@@ -10,7 +10,7 @@ model_repository: ''
 nodes: ''
 authors: ''
 tags:
-  - Agriculture Maps
+- Agriculture Maps
 links:
   url_pdf: ''
 url_doi: ''
