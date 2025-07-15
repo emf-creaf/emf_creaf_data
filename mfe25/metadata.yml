@@ -19,7 +19,7 @@ links:
   url_docs: ''
   url_source: 'https://www.miteco.gob.es/ca/biodiversidad/temas/inventarios-nacionales/mapa-forestal-espana/mfe_25.html'
 requirements: ''
-description: 'Mapa Forestal Español 1:25000'
+description: 'Mapa Forestal Español 1:25000, organized by autonomous communities, with additional gpkg files containing compositional classes (M. De Cáceres)'
 title: 'Mapa Forestal Español 1:25000'
 date: '2025-07-04'
 date_lastmod: '2025-07-04'
