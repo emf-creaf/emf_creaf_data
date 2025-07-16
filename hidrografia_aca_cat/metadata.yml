@@ -1,0 +1,24 @@
+id: 'hidrografia_aca_cat'
+emf_type: 'data'
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+emf_data_type: internal_data
+data_repository: 'ftps://emf-data.creaf.cat:22111/emf/datasets/Hydrography/Catalunya/HidrografiaACA/'
+model_repository: ''
+nodes: ''
+authors:
+- ''
+tags:
+- Hydrography
+links:
+  url_pdf: ''
+  url_doi: ''
+  url_docs: ''
+  url_source: 'https://sig.gencat.cat/visors/VISOR_ACA.html'
+requirements: ''
+description: "Hidrografica (rius, badies, subterranies) de l'Agencia Catalana de l'Aigua"
+title: "Hidrografia de l'ACA"
+date: '2025-07-16'
+date_lastmod: '2025-07-16'
