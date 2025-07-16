@@ -1,0 +1,23 @@
+id: 'mdt25_etrs89_pnoa'
+emf_type: data
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: true
+emf_data_type: internal_data
+data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/Topography/Catalunya/PNOA_MDT25_PROVINCES_ETRS89/'
+model_repository: ''
+nodes: ''
+authors: ''
+tags:
+- Topography
+links:
+  url_pdf: ''
+url_doi: ''
+url_docs: ''
+url_source: 'https://centrodedescargas.cnig.es/CentroDescargas/modelo-digital-terreno-mdt25-primera-cobertura'
+requirements: ''
+description: "Model digital del terreno para a 25 m para Peninsula y Canarias (1a cobertura), derivado de los vuelos LiDAR PNOA y agregado por provincias por M. De Cáceres"
+title: "Model digital del terreno para a 25 m de PNOA"
+date: '2025-07-16'
+date_lastmod: '2025-07-16'
