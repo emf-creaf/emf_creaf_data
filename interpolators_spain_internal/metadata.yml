@@ -8,7 +8,8 @@ emf_data_type: internal_data
 data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/Climate/Spain/InterpolationData'
 model_repository: ''
 nodes: ''
-authors: ''
+authors:
+- 'mcaceres'
 tags:
 - 'meteoland'
 links:
