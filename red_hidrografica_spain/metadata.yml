@@ -1,0 +1,24 @@
+id: 'red_hidrografica_spain'
+emf_type: 'data'
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+emf_data_type: internal_data
+data_repository: 'ftps://emf-data.creaf.cat:22111/emf/datasets/Hydrography/Spain/RedHidrografica/'
+model_repository: ''
+nodes: ''
+authors:
+- ''
+tags:
+- Forest Maps
+links:
+  url_pdf: ''
+  url_doi: ''
+  url_docs: ''
+  url_source: 'https://www.miteco.gob.es/ca/cartografia-y-sig/ide/descargas/agua/red-hidrografica.html'
+requirements: ''
+description: 'Red hidrográfica para España (MITECO)'
+title: 'Red hidrográfica para España (MITECO)'
+date: '2025-07-16'
+date_lastmod: '2025-07-16'
