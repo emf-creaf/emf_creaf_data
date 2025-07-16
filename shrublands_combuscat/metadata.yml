@@ -1,0 +1,24 @@
+id: 'shrublands_combuscat'
+emf_type: 'data'
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+emf_data_type: internal_data
+data_repository: 'ftps://emf-data.creaf.cat:22111/emf/datasets/ForestInventories/Shrublands_COMBUSCAT/'
+model_repository: ''
+nodes: ''
+authors:
+- ''
+tags:
+- Forest Maps
+links:
+  url_pdf: ''
+  url_doi: 'https://doi.org./10.1186/s13595-023-01190-y'
+  url_docs: ''
+  url_source: 'https://doi.org/10.5281/zenodo.7864496'
+requirements: ''
+description: 'Shrubland inventory data in Catalonia from project COMBUSCAT (Casals et al. 2023)'
+title: 'Shrubland data in Catalonia from project COMBUSCAT (Casals et al. 2023)'
+date: '2025-07-16'
+date_lastmod: '2025-07-16'
