@@ -1,0 +1,24 @@
+id: 'cuencas_subcuencas_spain'
+emf_type: 'data'
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+emf_data_type: internal_data
+data_repository: 'ftps://emf-data.creaf.cat:22111/emf/datasets/Hydrography/Spain/CuencasSubcuencas/'
+model_repository: ''
+nodes: ''
+authors:
+- ''
+tags:
+- Forest Maps
+links:
+  url_pdf: ''
+  url_doi: ''
+  url_docs: ''
+  url_source: 'https://www.miteco.gob.es/ca/cartografia-y-sig/ide/descargas/agua/cuencas-y-subcuencas.html'
+requirements: ''
+description: 'Cuencas y subcuencas hidrográficas para España (MITECO)'
+title: 'Cuencas y subcuencas hidrográficas para España (MITECO)'
+date: '2025-07-16'
+date_lastmod: '2025-07-16'
