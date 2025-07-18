@@ -10,6 +10,7 @@ model_repository: ''
 nodes:
 - 'forestables'
 - 'emf_ifn_forestables'
+- 'emf_forestables_medfate'
 authors:
 - 'mcaceres'
 - 'vgranda'

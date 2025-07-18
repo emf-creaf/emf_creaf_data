@@ -3,11 +3,12 @@ emf_type: data
 emf_public: false
 emf_automatized: true
 emf_reproducible: false
-emf_draft: true
+emf_draft: false
 emf_data_type: internal_data
 data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/Topography/Catalunya/PNOA_MDT25_PROVINCES_ETRS89/'
 model_repository: ''
-nodes: ''
+nodes:
+- 'emf_forestables_medfate'
 authors: ''
 tags:
 - Topography

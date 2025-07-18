@@ -3,7 +3,7 @@ emf_type: data
 emf_public: false
 emf_automatized: true
 emf_reproducible: false
-emf_draft: true
+emf_draft: false
 emf_data_type: internal_data
 data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/Agriculture/Catalunya/Cultius_DUN2018/'
 model_repository: ''
