@@ -1,0 +1,35 @@
+id: forestables_medfate_data
+emf_type: data
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+emf_data_type: internal_data
+data_repository: "ftp://data-emf.creaf.cat:22111/emf/datasets/ForestInventories/IFN_medfateland"
+model_repository: ''
+nodes:
+- emf_ifn_forestables
+- medfate
+- medfateland
+- traits4models
+- medfate_model
+- mdt25_etrs89_pnoa
+- soilgrids_internal
+- soildepth_shangguan
+authors:
+- 'mcaceres'
+- 'vgranda'
+tags:
+- data
+- forest inventory
+- Spain
+- medfateverse
+- medfateland
+links:
+  url_source: "ftp://data-emf.creaf.cat:22111/emf/datasets/ForestInventories/IFN_medfateland"
+requirements: ''
+description: 'IFN medfateland-ready data splitted by province and IFN version'
+date: '2025-07-18'
+date_lastmod: '2025-07-18'
+title: 'IFN data ready to use with medfateland for all Spain'
+
