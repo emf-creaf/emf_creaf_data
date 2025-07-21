@@ -1,0 +1,23 @@
+id: 'mdv25_etrs89_pnoa'
+emf_type: data
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: true
+emf_data_type: internal_data
+data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/RemoteSensing/Spain/CanopyHeight/PNOA_NDSMV_1Cob_PROVINCES_ETRS89'
+model_repository: ''
+nodes: ''
+authors: ''
+tags:
+- Remote sensing
+links:
+  url_pdf: ''
+url_doi: ''
+url_docs: ''
+url_source: 'https://centrodedescargas.cnig.es/CentroDescargas/modelo-digital-superficies-vegetacion-mdsnv2_5-primera-cobertura'
+requirements: ''
+description: "Modelo digital de superficies normalizado de la clase vegetación correspondiente a la 1ª Cobertura con paso de malla de 2,5 metros, agregado a 25 por Rodrigo Balaguer"
+title: "Modelo digital de superficies normalizado de la clase vegetación"
+date: '2025-07-21'
+date_lastmod: '2025-07-21'

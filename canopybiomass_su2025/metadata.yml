@@ -5,7 +5,7 @@ emf_automatized: true
 emf_reproducible: false
 emf_draft: true
 emf_data_type: internal_data
-data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/RemoteSensing/Spain/CanopyBiomass/'
+data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/RemoteSensing/Spain/CanopyBiomass/CanopyBiomass_Su2025'
 model_repository: ''
 nodes: ''
 authors: ''
@@ -19,5 +19,5 @@ url_source: 'https://doi.org/10.5281/zenodo.15032832'
 requirements: ''
 description: "SU, Y. (2025). Biomass in Iberian Peninsula predicted by ALS-Sentinel based model - 2017 to 2021"
 title: "Biomass for the Iberian Peninsula (Su 2025)"
-date: '2025-07-16'
-date_lastmod: '2025-07-16'
+date: '2025-07-21'
+date_lastmod: '2025-07-21'
