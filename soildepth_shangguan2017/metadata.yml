@@ -1,13 +1,14 @@
-id: 'soilgrids_internal'
+id: 'soildepth_shangguan'
 emf_type: data
 emf_public: false
 emf_automatized: true
 emf_reproducible: false
-emf_draft: true
+emf_draft: false
 emf_data_type: internal_data
 data_repository: 'ftp://emf-data.creaf.cat:22111/emf/datasets/Soils/Global/SoilDepth_Shangguan2017/'
 model_repository: ''
-nodes: ''
+nodes:
+- 'emf_forestables_medfate'
 authors: ''
 tags:
 - Soil
