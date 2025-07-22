@@ -13,9 +13,9 @@ tags:
 - Remote sensing
 links:
   url_pdf: ''
-url_doi: ''
-url_docs: ''
-url_source: 'https://centrodedescargas.cnig.es/CentroDescargas/modelo-digital-superficies-vegetacion-mdsnv2_5-primera-cobertura'
+  url_doi: ''
+  url_docs: ''
+  url_source: 'https://centrodedescargas.cnig.es/CentroDescargas/modelo-digital-superficies-vegetacion-mdsnv2_5-primera-cobertura'
 requirements: ''
 description: "Modelo digital de superficies normalizado de la clase vegetación correspondiente a la 1ª Cobertura con paso de malla de 2,5 metros, agregado a 25 por Rodrigo Balaguer"
 title: "Modelo digital de superficies normalizado de la clase vegetación"

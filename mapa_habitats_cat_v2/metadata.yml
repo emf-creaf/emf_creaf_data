@@ -13,9 +13,9 @@ tags:
 - Forest Maps
 links:
   url_pdf: ''
-url_doi: ''
-url_docs: ''
-url_source: 'https://catalegs.ide.cat/geonetwork/srv/api/records/habitats-interes-comunitari-v2-2018'
+  url_doi: ''
+  url_docs: ''
+  url_source: 'https://catalegs.ide.cat/geonetwork/srv/api/records/habitats-interes-comunitari-v2-2018'
 requirements: ''
 description: "Mapa d’Hàbitats de Catalunya v2"
 title: "Mapa d’Hàbitats de Catalunya v2"

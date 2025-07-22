@@ -13,9 +13,9 @@ tags:
 - Land cover
 links:
   url_pdf: ''
-url_doi: ''
-url_docs: ''
-url_source: 'https://www.icgc.cat/ca/Geoinformacio-i-mapes/Mapes/Mapa-de-cobertes-del-sol-de-Catalunya'
+  url_doi: ''
+  url_docs: ''
+  url_source: 'https://www.icgc.cat/ca/Geoinformacio-i-mapes/Mapes/Mapa-de-cobertes-del-sol-de-Catalunya'
 requirements: ''
 description: "Mapa de Cobertes del Sòl de Catalunya (2018)"
 title: "Mapa de Cobertes del Sòl (2018)"

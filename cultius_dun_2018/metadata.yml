@@ -13,9 +13,9 @@ tags:
 - Agriculture Maps
 links:
   url_pdf: ''
-url_doi: ''
-url_docs: ''
-url_source: 'https://agricultura.gencat.cat/ca/ambits/desenvolupament-rural/sigpac/mapa-cultius/index.html'
+  url_doi: ''
+  url_docs: ''
+  url_source: 'https://agricultura.gencat.cat/ca/ambits/desenvolupament-rural/sigpac/mapa-cultius/index.html'
 requirements: ''
 description: "Mapa de cultius DUN-SIGPAC 2018"
 title: "Mapa de cultius DUN-SIGPAC 2018"

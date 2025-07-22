@@ -14,9 +14,9 @@ tags:
 - Soil
 links:
   url_pdf: ''
-url_doi: 'https://doi.org/10.1002/2016MS000686'
-url_docs: ''
-url_source: 'http://globalchange.bnu.edu.cn/research/dtb.jsp'
+  url_doi: 'https://doi.org/10.1002/2016MS000686'
+  url_docs: ''
+  url_source: 'http://globalchange.bnu.edu.cn/research/dtb.jsp'
 requirements: ''
 description: "A Global map of depth to bedrock for Earth System Modeling (Shangguan et al. 2017)"
 title: "Map of soil depth Shangguan et al. 2017"

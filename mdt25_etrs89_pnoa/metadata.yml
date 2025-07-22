@@ -14,9 +14,9 @@ tags:
 - Topography
 links:
   url_pdf: ''
-url_doi: ''
-url_docs: ''
-url_source: 'https://centrodedescargas.cnig.es/CentroDescargas/modelo-digital-terreno-mdt25-primera-cobertura'
+  url_doi: ''
+  url_docs: ''
+  url_source: 'https://centrodedescargas.cnig.es/CentroDescargas/modelo-digital-terreno-mdt25-primera-cobertura'
 requirements: ''
 description: "Model digital del terreno para a 25 m para Peninsula y Canarias (1a cobertura), derivado de los vuelos LiDAR PNOA y agregado por provincias por M. De Cáceres"
 title: "Model digital del terreno para a 25 m de PNOA"

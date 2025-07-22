@@ -14,9 +14,9 @@ tags:
 - Soil
 links:
   url_pdf: ''
-url_doi: ''
-url_docs: ''
-url_source: 'https://files.isric.org/soilgrids/latest/data/'
+  url_doi: ''
+  url_docs: ''
+  url_source: 'https://files.isric.org/soilgrids/latest/data/'
 requirements: ''
 description: "SoilGrids data downloaded for Peninsular Spain and Canarias by M. De Cáceres"
 title: "SoilGrids v2.0"

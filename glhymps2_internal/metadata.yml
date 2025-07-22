@@ -13,9 +13,9 @@ tags:
 - Land cover
 links:
   url_pdf: ''
-url_doi: 'http://dx.doi.org/10.1002/2017GL075860'
-url_docs: ''
-url_source: 'https://doi.org/10.5683/SP2/TTJNIU'
+  url_doi: 'http://dx.doi.org/10.1002/2017GL075860'
+  url_docs: ''
+  url_source: 'https://doi.org/10.5683/SP2/TTJNIU'
 requirements: ''
 description: " map data (Huscroft et al. 2018) with shapefile cropped for Spain by M. De Cáceres"
 title: "GLHYMPS 2.0 map data (HGLHYMPS 2.0uscroft et al. 2018)"
