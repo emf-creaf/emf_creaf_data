@@ -1,0 +1,23 @@
+id: ifn_bbdd_campo
+emf_type: data
+emf_public: false
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+emf_data_type: internal_data
+data_repository: "ftp://data-emf.creaf.cat:22111/emf/datasets/ForestInventories/IFN_bbdd_campo/"
+model_repository: ''
+nodes: ''
+authors: ''
+tags:
+- data
+- forest inventory
+- Spain
+links:
+  url_source: "https://www.miteco.gob.es/ca/biodiversidad/temas/inventarios-nacionales.html"
+requirements: ''
+description: 'IFN field data downloaded from Spanish Ministry and grouped by IFN version'
+date: '2025-11-10'
+date_lastmod: '2025-11-10'
+title: 'IFN field databases for all Spain'
+
