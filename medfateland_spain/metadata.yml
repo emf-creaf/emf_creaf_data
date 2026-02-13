@@ -1,0 +1,29 @@
+id: medfateland_spain
+emf_type: data
+emf_public: true
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+emf_data_type: creaf_data
+data_repository: https://data-emf.creaf.cat/public/gpkg/daily_modelled_forests/
+model_repository: ''
+nodes:
+- 'emf_meteorology'
+- 'emf_forestdrought'
+- 'medfateland'
+- 'medfate'
+authors:
+- ''
+tags:
+- data
+- forest
+- Spain
+- model
+links:
+  url_source: https://data-emf.creaf.cat/public/gpkg/daily_modelled_forests/
+requirements: ''
+description: 'Daily modelled forest water balance and fire risk indicators for the last 365 days, at 500 m2 resolution for all Spain'
+date: '2026-02-13'
+date_lastmod: '2026-02-13'
+title: 'Modelled daily continous (500 m2) forest water balance data for Spain'
+
